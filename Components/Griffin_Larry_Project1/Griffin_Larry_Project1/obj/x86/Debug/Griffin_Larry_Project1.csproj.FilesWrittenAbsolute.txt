@@ -1,0 +1,5 @@
+/Users/lgriffin1201/Griffin_Larry__Portfolio/Components/Griffin_Larry_Project1/Griffin_Larry_Project1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/lgriffin1201/Griffin_Larry__Portfolio/Components/Griffin_Larry_Project1/Griffin_Larry_Project1/bin/Debug/Griffin_Larry_Project1.exe.mdb
+/Users/lgriffin1201/Griffin_Larry__Portfolio/Components/Griffin_Larry_Project1/Griffin_Larry_Project1/bin/Debug/Griffin_Larry_Project1.exe
+/Users/lgriffin1201/Griffin_Larry__Portfolio/Components/Griffin_Larry_Project1/Griffin_Larry_Project1/obj/x86/Debug/Griffin_Larry_Project1.exe
+/Users/lgriffin1201/Griffin_Larry__Portfolio/Components/Griffin_Larry_Project1/Griffin_Larry_Project1/obj/x86/Debug/Griffin_Larry_Project1.exe.mdb
