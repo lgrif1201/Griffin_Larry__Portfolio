@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Griffin_Larry_Expressions_Assignment", "Griffin_Larry_Expressions_Assignment\Griffin_Larry_Expressions_Assignment.csproj", "{21CD7C3F-0F56-4C42-A0E3-999454292678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CD7C3F-0F56-4C42-A0E3-999454292678}.Debug|x86.ActiveCfg = Debug|x86
+		{21CD7C3F-0F56-4C42-A0E3-999454292678}.Debug|x86.Build.0 = Debug|x86
+		{21CD7C3F-0F56-4C42-A0E3-999454292678}.Release|x86.ActiveCfg = Release|x86
+		{21CD7C3F-0F56-4C42-A0E3-999454292678}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
